@@ -1,0 +1,11 @@
+This is homework 2: question 1
+Value of C: 5
+Value of Gamma: 0.015
+Kernel: gauss
+Classification rate on the validation set: 0.87
+Classification rate on the test set: 0.90
+Classification rate on the training set: 0.98
+Confusion Matrix 1st row: [174  16]
+Confusion Matrix 2nd row: [ 23 187]
+Number of iterations: 9
+Training time: 1.20sec
